@@ -11,8 +11,6 @@ disableKinds=["RSS"]
   logo = ""
   copyright = "Untitled"
 
-
-
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
