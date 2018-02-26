@@ -1,4 +1,4 @@
-baseurl = "http://el-uhu.github.io/rhizone/"
+baseurl = "http://rhizone.github.io"
 title = "Rhizone"
 theme = "dimension"
 languageCode = "en-us"
