@@ -5,11 +5,12 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+disableLogo = true
 
 [params]
-  description = '<img src="images/logo_src.jpg" style="width:30%"></img>'
-  logo = ""
-  copyright = "Untitled"
+  logoImage = "Albumcover.jpg"
+  copyrightText = "rhizonemusic@gmail.com"
+  customCSS = "custom.css"
 
 [[params.social]]
   medium = "facebook"

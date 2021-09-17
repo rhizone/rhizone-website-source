@@ -6,12 +6,16 @@ draft = false
 
 {{< figure class="image main" src="/images/1_Releases.JPG" >}}
 
-## Singles
+## ALBEN
 
-- Particles
-- High Noon
+- Timelines [2021]
 
-## Albums
+## SINGLES
 
-### Timelines
-To be released in 2019
+- God Hell [2021]
+- Particles [2018]
+
+## VIDEOS
+
+- God Hell [2021]
+

@@ -6,53 +6,11 @@ draft = false
 
 {{< figure class="image main" src="/images/5_Ocean.JPG" >}}
 
-<center>
-Fadein..<br>
-Timelines<br>
-or<br>
-In search of the Black Water<br>
+RHIZONE funktioniert wie ein Rhizom [Lesetipp: Rhizom von Gilles Deleuze & Félix Guattari]... daher ja auch der Name. Alles darf, aber nichts muss einfließen. RHIZONE vertont selbsterdachte Geschichten und bringt diese nicht nur in Form von Musik, sondern auch in visueller Darstellung, u.a.  als Art - Rock - Theater, auf die Bühne und ins Zuhause all derer, die sich hingeben, ausbrechen und genießen wollen. 
+Dementsprechend steht Rhizone in ständigem Austausch mit KooperationspartnerInnen aus unterschiedlichsten Kunstrichtungen: RegisseurInnen, SchauspielerInnen, Visual Artists, etc., deren Kritik und Ideen ein essentieller Bestandteil Ifder Produktionsform unserer Kunstwerke ist. Wer sich einbringen möchte, kann/darf/soll das auch tun. Punkt.
+Als erstes Gesamtkunstwerk gilt es, das Bühnenwerk “Metropolis or In Search of the Black Water” zu vertonen und zu visualisieren. Dieses besteht aus den drei Akten “Timelines”, “Borderlines” und “Lines of Flight”. Darin werden Normalität und Wahnsinn im Zeitalter des gläsernen Menschen verhandelt. Die Akte werden in Konzeptalben gegossen und gepresst; sie ergeben gemeinsam ein mehrstündiges Theaterstück, das sowohl als Konzertreihe, als auch als Art - Rock - Theater zur Aufführung gelangt.
+Der erste Akt dieses ersten Gesamtkunstwerkes beginnt wie so viele Geschichten mit einem Individuum und seinen Träumen…
 
-Prologue...
-</center>
-[*young male voice:*]<br>
-Arrays of sun-melted clouds travel smoothly along the horizon. Red and white smoke surrounding the contours of a flying flagship. Soon nightfall will
-have devoured the Zeppelin completely, as well as the industry towers, the prosperity-lake and the pearl skyscrapers. It's all quiet on the western earth –
+{{< figure class="image main" src="/images/walking.jpg" >}}
 
-[*old female voice:*]<br>
-at least the huge screens on the gothic churches and in the highly frequented streets tell us this story.
-
-[*young female voice:*]<br>
-The Communist dream is over –
-
-[*middle-aged male voice:*]<br>
-the American dream shattered for the masses.
-
-[*young male voice:*]<br>
-a generation examining the fates of the Timelines:
-
-[*Gideon*]<br>
-Some search for black waters,<br>
-some for release,<br>
-some just want to live the moment,<br>
-and some long for federalistic peace ---
-
-[*young girl voice:*]<br>
-Some don't care at all but that again is not a question of prosperity but a question of definition.
-
-[*old male voice:*] <br>
-One can understand hell only if (s)he doesn't live in it.
-
-[*old female voice:*]<br>
-Living in it there's no need to understand.
-
-[*middle aged male voice:*]<br>
-You just want to get out and break free.
-
-[*young boy voice:*]<br>
-In any case there's no doubt about imperialistic entanglements – the wealth that was built on the sublime oppression is still ruling our path.
-
-[*young female voice*]<br>
-But: To be honest... our guilt cannot be found in reaction but in delusion of our doings.
-
-[*Gideon*]<br>
-Some still remember a paradisecall.
+If you want to be part of the Rhizone-Community, please contact us via rhizone.music@gmail.com. We are looking forward to receiving feedback and ideas of all kinds.
