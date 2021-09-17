@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/rhizone/rhizone.github.io.git
 	branch = master
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://gitlab.com/dspechnikov/dimension-hugo
