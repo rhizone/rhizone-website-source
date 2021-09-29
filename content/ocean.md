@@ -13,4 +13,4 @@ Der erste Akt dieses ersten Gesamtkunstwerkes beginnt wie so viele Geschichten m
 
 {{< figure class="image main" src="/images/walking.jpg" >}}
 
-If you want to be part of the Rhizone-Community, please contact us via rhizone.music@gmail.com. We are looking forward to receiving feedback and ideas of all kinds.
+If you want to be part of the Rhizone-Community, please contact us via rhizonemusic@gmail.com. We are looking forward to receiving feedback and ideas of all kinds.

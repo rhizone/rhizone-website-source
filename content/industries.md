@@ -24,7 +24,7 @@ SINGLE: Particles available on Bandcamp
 		
 ## VISUAL ART
 
-If you are interested in buying a painting, including up to 9 Songs, feel free to contact us via rhizone.music@gmail.com for your personal offer.
+If you are interested in buying a painting, including up to 9 Songs, feel free to contact us via rhizonemusic@gmail.com for your personal offer.
 
 {{< figure class="image main" src="/images/Painting_1.jpg" >}}
 {{< figure class="image main" src="/images/Painting_2.jpg" >}}
