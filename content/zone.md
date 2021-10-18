@@ -23,7 +23,7 @@ Eine Schatzkarte….ohne Schatz.
 
 The declared goal of RHIZONE is nothing less than to bring together diversity into a musical network - because their music is a stage for actors, interwoven with the ramifications of human affairs, relationships and the stories that arise from them.
 
-The Viennese quintet uses a typewriter, voice, piano & guitar (Thomas Hutter), saxophone & guitar (Michael Auinger), drums & percussion (Georg Hinterberger), bass (Lukas Brandl) and angelic voice, driven by lively synths, to tell these stories (Ulli Grill), sound. But the rhizome can be broken and destroyed at any point; it continues to grow along its own or other lines.
+The Viennese quintet uses a typewriter, voice, piano & guitar (Thomas Hutter), saxophone & guitar (Michael Auinger), drums & percussion (Georg Hinterberger), bass (Lukas Brandl) and angelic voice, driven by lively synths  (Ulli Grill), to tell these stories. But the rhizome can be broken and destroyed at any point; it continues to grow along its own or other lines.
 
 The weave plan? Lyrical concrete trees, breaking branch screws and a progressive wooden zeppelin on the way to ... A visionary leaf structure with thundering bunker plants and melodic high-rise roots. A battle without sacrifices. Murder without death. Life without having to. Shots without wounds. Sprout powder and phrase cannons ...
 
